@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To all that professe Christianity, are these following particulars concerning their name of Christians, loving enemies, the worship in spirit, gospel-fellowship, their many heads and baptismes, their many churches, their disagreeing about Scriptures interpretation / by G.F.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40288</idno><idno type="EEBO-CITATION">12927387</idno>
+  <idno type="VID">95567</idno>
+  <idno type="EEBO-PROQUEST">2240896425</idno>
+  
+            <idno type="STC">Wing F1941A</idno>
+            <idno type="STC">ESTC R10507</idno>
+            <idno type="OCLC">12927387</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A40288)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95567)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 692:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To all that professe Christianity, are these following particulars concerning their name of Christians, loving enemies, the worship in spirit, gospel-fellowship, their many heads and baptismes, their many churches, their disagreeing about Scriptures interpretation / by G.F.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Giles Calvert,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to George Fox. Cf. Halkett &amp; Laing (2nd ed.).</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Conduct of life.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95567:1"/>
+            <pb facs="tcp:95567:1"/>
+            <p>TO ALL that Professe Christianity, are these following PARTICULARS.</p>
+            <p>Concerning
+<list>
+                  <item>Their Name of Christians.</item>
+                  <item>Loving Enemies.</item>
+                  <item>The Worship in Spirit.</item>
+                  <item>Gospel-fellowship.</item>
+                  <item>Their many Heads and Baptismes.</item>
+                  <item>Their many Churches.</item>
+                  <item>Their disagreeing about Scriptures Interpretation.</item>
+               </list>
+            </p>
+            <p>By <hi>G. F.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Simmons,</hi> 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:95567:2"/>
+            <pb n="3" facs="tcp:95567:2"/>
+            <opener>
+               <salute>FRIENDS,</salute>
+            </opener>
+            <p n="1">1 YOu have had the Name of <hi>Christians,</hi> which Name hath come by Tradition and Suc<g ref="char:EOLhyphen"/>cession, and hath been so kept up since the Apostles dayes; but the Life, and the <hi>Pow<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r,</hi> and the Love, and the Wisdome, that was a<g ref="char:EOLhyphen"/>mong the Apostles, and in them, which was the Wis<g ref="char:EOLhyphen"/>dome of Christ have you Kings, Princes, Rulers, Teach<g ref="char:EOLhyphen"/>ers and People, High and Low, been out of in the Ge<g ref="char:EOLhyphen"/>neral, and it is in the Life and Power of God, in which Go<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is served in. And now you Christians that have this Name as after Christ, but are found in the old life one with another, and in it one against another; and this is in the Apostacy &amp; Degeneration from the Life and Power that the Apostles was in, in the Primitive times; and therefore are you (called Christians) broken into so many sects, and heaps, and so many heads, and names, each one hating another; and this is the cause, the being out of the Power and Life of Christ, and his Wisdome, which the Apostles was in, which is <hi>Gentle, Pure, Peaceable.</hi> Now you Kings, Princes, Rulers, Teachers and People called Christians, are not peace<g ref="char:EOLhyphen"/>able one with another, and so are not in the Wisdome that is from above, and you are not <hi>Gentle,</hi> neither are you <hi>easie to be intreated,</hi> and therefore are in the wisdom below, below (I say) that which is from above; So there<g ref="char:EOLhyphen"/>fore Read your selves and your Condition, for the wisdome that is pure from above is <hi>Gentle and easie to be entreated;</hi> N<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w if all Kings, Princes, Rulers, Teachers, People, H<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gh and Low, were in this State, then there would be no falling out, they would bear the badge of their M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ster Christ, and that which the Apostles were in, and there would be no strife in the whole Family of Christendom, for strife is out of the peaceable state and Gentle; Therefore Read your selves, your state, and your wisdome, and the Apostles wisdom that they were in, and what a degeneration and Apostacy there is, and hath been from that.</p>
+            <p n="2">
+               <pb n="4" facs="tcp:95567:3"/>2. Christ saith, <hi>love your Enemies,</hi> and again he saith, <hi>love one another,</hi> and that is the mark whereby you are known to be his Disciples; Now let all Christendome look upon themselves and among themselves, and see how they have loved one another, and do love one ano<g ref="char:EOLhyphen"/>ther, and how they have shewed the mark of D<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sciples; Now if they had loved one another, they had not hurt nor hated, nor gone to war one against another, the ground of which hath come from their lusts, who have profest the Name of Jesus, but trampled his Command under their feet, which Command is to love one ano<g ref="char:EOLhyphen"/>ther; and so hatred, lusts, war, contentions and strife is uppermost; so now by this you may see there hath been a Degeneration and Apostacy from the Command of Christ, in Life and Practice, and so in this his Name hath been dishonoured; Now to love one another is not to war one with another, and to love Enemies, that is his Command, and so not to war with them, nor strive, nor fight; Therefore now mind and remember you that have professed the Name of Jesus, how out of this Life and Command of Christ you are found, and in the Degeneration and Apostacy from it, and so se<g ref="char:EOLhyphen"/>parated from the Apostles which was in it, and that is the cause that you are in heaps among your selves, and have so many enemies abroad, for love makes Friends, and overcomes both among your selves, and abroad.</p>
+            <p n="3">3. If you was in the worship of God <hi>in the Spirit and in the Truth,</hi> that is that which the Devil is out of, then would you be all in unity, for unity is in the Truth, wch is before enmity was; Now from this worsh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p in Spirit and Truth, wh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch Christ set up among the Apostles, hath there been a degeneration in Christendom and A<g ref="char:EOLhyphen"/>postacy, for if they had been all in it, that is to say, in the Spirit, and in the Truth it is in, and had been in that which the Devil is out of, who is the Au<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hor of en<g ref="char:EOLhyphen"/>mity, and this is the one standing worship, which is a<g ref="char:EOLhyphen"/>bove the D vils worship and the worship of Ang<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ls, and the will wo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ship, and in the spirit is the fellowship with God and with one another, and with all Scriptures to what state they were spoken.</p>
+            <p n="4">
+               <pb n="5" facs="tcp:95567:3"/>4. If you had all been in the <hi>Gospel fellowship,</hi> that is to say, that which is called Christendome, which Gospel is the <hi>Power of God,</hi> which power of God was before the pow<g ref="char:EOLhyphen"/>er of darkness was, in which power of God is the everlast<g ref="char:EOLhyphen"/>ing fellowship, which is the Church-fellows<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>p which was among the Apostles, from which there hath been a dege<g ref="char:EOLhyphen"/>neration and apostacy, for the Gospel the power of God, which goeth over the power of darkness, which hath dark<g ref="char:EOLhyphen"/>ned life and immortality from them, and in this power of God the Gospel is the Mystery of the fellowship, wh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch is above all other fellowships in the VVorld, which must have an end; but the fellowship in the power of God, the Gospel, before the power of darkness and the world was, and its fellowships shall never have an end. And men being gone out of the power of God, and Degenerated and Apostatized from that, is the cause that they have gone into so many fellowships and not into unity, but one against another, for the unity and fellowship is in the Gospel, the power of God, (which is as I said before,) before enmity was, and in which no enmity can come and this is the standing everlasting fellowship of the Church of God.</p>
+            <p n="5">5. The state of Christendome being gone into so <hi>many heads,</hi> and so many <hi>Baptisms,</hi> is that they are out of the power and spirit, light and life of Jesus, which the Apo<g ref="char:EOLhyphen"/>stles was in, and from that Degenerated and Apostarized, and from Christ the one head and one way, gone into so many, and so in general being erred from the spirit and power of God in themselves, which spirit should baptize into the one body, and so bring to the one head Christ, and to plunge down all the corruptions which come though the enmity in man or woman, by whic<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is the cause of so many bodies and so many heads, and so many baptisms, and so many waies, which the many heads cry every one for his way and Baptisme, <hi>lo here, lo there,</hi> which sets up so many broken Cesterns, that hold not the <hi>Living Water,</hi> but the one Baptisme with the one spirit, which plunges down the corruption which is gotten up by Transgression, and the fall from Gods Image and Holiness, bringeth into the one body and to the one head Christ,
+<pb n="6" facs="tcp:95567:4"/> the head of the body, and so all to drink into the one spi<g ref="char:EOLhyphen"/>rit, where the VVater of Life is felt.</p>
+            <p n="6">6. The state of Christendome in the general being run into so many <hi>Churches,</hi> (so called) and every Church mis<g ref="char:EOLhyphen"/>calling one another, and Warring and Sriving and Fight<g ref="char:EOLhyphen"/>ing one with another, and Hating, and Killing, &amp; Slaying one another, and Persecuting and Imprisoning, this is the state that is Apostatized and Degenerated from the A<g ref="char:EOLhyphen"/>postles in the Primitive time, and from Christs Doctrine, who said, <hi>Let the Tares and Wheat grow together,</hi> and so doth not fight against the World, for the Church is made up of the Wheat, but the state of all Christendom being on heaps, Church against Church, and so many in it striving one with another, is because they be not in the life of Christ Jesus, and in his power, and wisdome, and his com<g ref="char:EOLhyphen"/>mandment which is <hi>Love,</hi> which commandment he gave forth, who said, <hi>This is the Commandment I give unto you, that you love one another,</hi> so if Christians feet were fowle and un<g ref="char:EOLhyphen"/>clean to the sight of one another, they should wash them, not Imprison them or Kill them, but Christ said, <hi>He came not to destroy mens lives, but to save them,</hi> When his Disciples would have had fire come down from Heaven to consume them that was contrary minded to them, (as the Prophet had done) such Spirits Christ rebuked, and told them they knew not of what spirit they were of; Now what spirit hath Christendom been of, that hath killed and per<g ref="char:EOLhyphen"/>secuted one another about Religion, Church and Wor<g ref="char:EOLhyphen"/>ship, hath he known of what spirit he hath been of? and this hath manifested it to be the birth born of the Flesh, and not to be the birth born of the Spirit, Apostatized, and so lost the fruit of the spirit, which is of love, gentle<g ref="char:EOLhyphen"/>nesse and peaceableness, <hi>&amp;c.</hi> But the Church is <hi>in God, Thes.</hi> 1.1. Now <hi>Adam</hi> and <hi>Eve</hi> being put out of the Gar<g ref="char:EOLhyphen"/>den of the Paradice of God, because of Transgression, and so the Sons of <hi>Adam,</hi> and Daughters of <hi>Adam</hi> in the Fall, out of Gods Image, Righteousness and Holinesse, which their Father <hi>Adam</hi> and their Mother <hi>Eve</hi> was in before they fell; now in this state in the fall is many Churchs, but they that come to the Church in God, they must come out of that state that <hi>Adam</hi> and <hi>Eve</hi> and their Sons
+<pb n="7" facs="tcp:95567:4"/> and Daughters was &amp; is in in the fall, up into the state they was in before they fell, and so to be renewed again up in<g ref="char:EOLhyphen"/>to Gods Image, which in the fall is lost, and up into his Righteousnesse by <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hrist Jesus who is the way to God, and the head of the Church that is in God, so must all the Sons and Daughters of <hi>Adam</hi> scattered up and down the face of the Earth, of what sect or worship they are in, in the fall, in the state that their Father <hi>Adam</hi> and <hi>Eve</hi> was in in the fall, they must be brought off to know the state that they was in before they fell, if they come to the Church that is in God the Father of Christ, who is the head of it, and there is more in this, <hi>&amp;c.</hi>
+            </p>
+            <p n="7">7. And the state why all Christendom is on heapes a<g ref="char:EOLhyphen"/>bout the Scriptures, and the Interpretation thereof, the Teachers and People, and likewise about maintenance of their Ministers, and are gone into so much Idolatry, and Inventions and Traditions of their own, and compelling people thereunto, as Meats, Drinks, Dayes, Images and Outward things, is, that they are Apostatized and degene<g ref="char:EOLhyphen"/>rated from the life the Apostles was in, and the Spirit in the Primitive times, and so not being in the life of the Prophets, and the Spirit of Christ in the Apostles, which should open to them every particular of the Scriptures, from which spirit of God they were given forth, and of God they was learned, the Scriptures of Truth cannot be broken, but must be fulfilled; so men and people, high and low, Teachers being not in the spirit as the Prophets, Christ and the Apostles were in, which lead them to speak forth Scriptures, in which spirit the Prophets, Christ and the Apostles had unity and agreed, and Christendome in the general being not in this spirit, they are all on heapes about Scriptures, and the private interpretation thereof, and therefore they set forth such great books one against another; Now if that they were in the spirit, or had been, which gave forth the Scriptures, it would have been their bond of peace, and in it they would have had all fellow<g ref="char:EOLhyphen"/>ship and unity with God of whom they had learned, and with Scriptures, and one with another, for in the spirit that gave them forth is the standing fellowship, and with it the Scriptures are all seen, opened, and interpreted, and
+<pb n="8" facs="tcp:95567:5"/> men since the Apostles dayes, not being in the spirit that gave forth Scriptures, they have said that the <hi>tongues</hi> was the <hi>original,</hi>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he beginning of which was <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>abel,</hi> and these tongues made them divide which have deg<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nerated from the Apostles, who said, <hi>The Tongues should cease;</hi> and <hi>John</hi> in the Revelations said they must be <hi>redeemed from Tongues,</hi> and <hi>Pilate</hi> set the Tongues a top of Christ, when he crucified him; and so this is cryed up which men must be Redeemed from and must cease, the b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nning of which is <hi>Babel,</hi> and which was set a top of Chr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st, this is cryed up among such <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat be Apostatized from the Apostles, to be the Original and to make Divines, that be out of the spirit, Life and Power that the Pro<g ref="char:EOLhyphen"/>phets, Christ and the Apostles was in; for the Life, spirit and Power that the Prophets, Christ &amp; the Apostles was in, wch brings people to know the scriptures, given forth by the same spirit, and God of whom they were learned, and to see the ceasing of Tongues, and to see the begin<g ref="char:EOLhyphen"/>ning of Tongues at <hi>Babel,</hi> and to see the beginning be<g ref="char:EOLhyphen"/>fore the fall, this is the spirit power and Word of God wh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch made Divines, and makes Divines, and in which the Original is known, and this gives to see how Chri<g ref="char:EOLhyphen"/>stendom hath Apostatized from the Apostles Doctrine, life and practise, which if people come out of, they must come to the Light, and feel and see the Life of Jesus, and his pow<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r and spirit in their own particulars, with which they may see the Light, Life and power the Apostles were in before the Apostacy, in which is the Unity.</p>
+            <p>There is one Faith which Justifieth and purifieth the heart, which is the gift of God, which giveth victory over all that which hath separated man from God, by which faith man hath again access to God, and in which faith he pleases God, and in this faith is the unity of the Church, and saints which is in God, and this is the true Church faith, which hath been Apostatized and degenerated from, since the Apostles dayes by the generality of Christendom, I say from this faith that works by love, which was a<g ref="char:EOLhyphen"/>mong the Apostles, but the Apostates and denerated ones are in the hatred, and in the faith that works by love they are n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, their fruits declares it.</p>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:95567:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
